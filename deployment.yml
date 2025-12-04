@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: ecart
-          image: momagdyy/ecart:latest 
+          image: a7medsayed/shopping-cart:latest 
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8070 
