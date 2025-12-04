@@ -1,5 +1,5 @@
 # Use a modern JDK 11 base image
-FROM eclipse-temurin:11-jdk
+FROM eclipse-temurin:11-jdk:alpine
 
 
 EXPOSE 8070
